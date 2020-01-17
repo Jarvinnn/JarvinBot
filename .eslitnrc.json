@@ -1,0 +1,7 @@
+{
+    "extends": "klasa",
+    "rules": {
+        "no-mixed-operators": "off",
+        "consistent-return": "off"
+    }
+}

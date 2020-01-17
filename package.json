@@ -1,0 +1,21 @@
+{
+  "name": "discord-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jarvin",
+  "license": "ISC",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.3",
+    "discord.js": "github:discordjs/discord.js",
+    "klasa": "github:dirigeants/klasa#master",
+    "oldschooljs": "^0.7.9",
+    "request": "^2.88.0"
+  },
+  "devDependencies": {
+    "eslint-config-klasa": "github:dirigeants/klasa-lint"
+  }
+}
